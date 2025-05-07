@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @DanveAlighieri
 - 👀 I’m interested in experimental music, programming, Art, Arty Video games
 - 🌱 I’m currently learning T-Level
-- 💞️ I’m looking to collaborate on Making Video Games
 - 📫 Email: Bumblejpc@gmail.com
-- 😄 Pronouns: He/Him (Slime/Slimes if you want)
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My Favourite album is TECHDOG 1-7
 
 <!---
